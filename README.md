@@ -3,4 +3,4 @@ Juggling multiple programming languages like Python, JavaScript, C++, SQL, and B
 be overwhelming. I often find myself diving deep into one language, only to neglect others.
 To maintain a balanced learning pace, I created this small program that randomly picks 
 which language to focus on each day of the week. This ensures consistent progress across 
-all languages.
+all languages. Right now it is hard-coded, but will create a menu for the program soon. 
